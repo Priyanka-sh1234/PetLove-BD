@@ -1,0 +1,6 @@
+.env
+node_modules
+ParentCredentials.js
+ClinicCredentials.js
+UPLOAD
+MongoDB users and deployment ids.txt
